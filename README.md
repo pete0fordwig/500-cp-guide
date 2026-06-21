@@ -1,2 +1,14 @@
 # 500-cp-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
